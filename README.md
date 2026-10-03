@@ -1,2 +1,6 @@
-# mi-primer-repositorio
-prueba de usos
+# Mi primer repositorio
+
+Estoy aprendiendo a usar GitHub.
+
+Este es mi primer proyecto.
+
